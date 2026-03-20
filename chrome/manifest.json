@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Fahhh - Error Meme Sound",
+    "version": "1.0",
+    "description": "Plays the 'Fahhhh' meme sound on 404 errors and network failures.",
+    "permissions": [
+        "webNavigation",
+        "webRequest",
+        "offscreen"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "icons": {
+        "48": "icons/icon48.png"
+    }
+}
