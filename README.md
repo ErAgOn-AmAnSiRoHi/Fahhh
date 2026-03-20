@@ -1,4 +1,4 @@
-# <div align="center">� Fahhh - The Ultimate Navigation Gasp �</div>
+# <div align="center"> Fahhh - The Ultimate Navigation Gasp </div>
 
 <div align="center">
   <i>"Because a 404 error shouldn't just be frustrating—it should be legendary."</i>
